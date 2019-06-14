@@ -18,7 +18,7 @@ public class JavaApplication8 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("menu kuch ni aunda bss tu c rehndo slatetiii");
+        System.out.println("menu kuch ni aunda");
     }
 
     /**
